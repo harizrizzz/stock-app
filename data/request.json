@@ -1,0 +1,133 @@
+[
+    {
+      "id": 1,
+      "name": "Request for Manufacturing",
+      "department": "Manufacturing",
+      "status" : "pending",
+      "mrf": 1,
+      "due_date": "2025-01-15",
+      "create_at": "2024-12-",
+      "items": [
+        { "item_id": 1, "quantity":  3},
+        { "item_id": 2, "quantity": 5 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Request for Procurement",
+      "department": "Procurement",
+      "status" : "confirm",
+      "mrf": 2,
+      "due_date": "2025-01-20",
+      "create_at": "2024-12-11",
+      "items": [
+        { "item_id": 1, "quantity": 20 },
+        { "item_id": 4, "quantity": 15 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Request for Logistics",
+      "department": "Logistics",
+      "status" : "reject",
+      "mrf": 3,
+      "due_date": "2025-01-18",
+      "create_at": "2024-12-12",
+      "items": [
+        { "item_id": 5, "quantity": 8 },
+        { "item_id": 6, "quantity": 12 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Request for Sales",
+      "department": "Sales",
+      "status" : "pending",
+      "mrf": 4,
+      "due_date": "2025-01-25",
+      "create_at": "2024-12-13",
+      "items": [
+        { "item_id": 7, "quantity": 5 },
+        { "item_id": 8, "quantity": 9 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Request for Maintenance",
+      "department": "Maintenance",
+      "status" : "pending",
+      "mrf": 5,
+      "due_date": "2025-01-22",
+      "create_at": "2024-12-14",
+      "items": [
+        { "item_id": 9, "quantity": 7 },
+        { "item_id": 1, "quantity": 3 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Request for IT",
+      "department": "IT",
+      "status" : "pending",
+      "mrf": 6,
+      "due_date": "2025-01-30",
+      "create_at": "2024-12-15",
+      "items": [
+        { "item_id": 111, "quantity": 25 },
+        { "item_id": 112, "quantity": 30 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Request for R&D",
+      "department": "R&D",
+      "status" : "pending",
+      "mrf": 7,
+      "due_date": "2025-01-28",
+      "create_at": "2024-12-16",
+      "items": [
+        { "item_id": 113, "quantity": 14 },
+        { "item_id": 114, "quantity": 18 }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Request for Admin",
+      "department": "Admin",
+      "status" : "pending",
+      "mrf": 8,
+      "due_date": "2025-02-01",
+      "create_at": "2024-12-17",
+      "items": [
+        { "item_id": 115, "quantity": 6 },
+        { "item_id": 116, "quantity": 2 }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Request for Marketing",
+      "department": "Marketing",
+      "status" : "pending",
+      "mrf": 9,
+      "due_date": "2025-02-05",
+      "create_at": "2024-12-18",
+      "items": [
+        { "item_id": 117, "quantity": 20 },
+        { "item_id": 118, "quantity": 25 }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Request for Finance",
+      "department": "Finance",
+      "status" : "pending",
+      "mrf": 4,
+      "due_date": "2025-02-",
+      "create_at": "2024-12-19",
+      "items": [
+        { "item_id": 119, "quantity": 4 },
+        { "item_id": 120, "quantity": 8 }
+      ]
+    }
+  ]
+  

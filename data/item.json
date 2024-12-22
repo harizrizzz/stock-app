@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "image": "/images/dummy-1.png",
+      "name": "Steel Rods",
+      "quantity": 120,
+      "create_at": "2024-12-10T10:15:00Z"
+    },
+    {
+      "id": 2,
+      "image": "/images/dummy-1.png",
+      "name": "Hydraulic Pump",
+      "quantity": 45,
+      "create_at": "2024-12-11T14:30:00Z"
+    },
+    {
+      "id": 3,
+      "image": "/images/dummy-1.png",
+      "name": "Welding Torch",
+      "quantity": 60,
+      "create_at": "2024-12-12T08:20:00Z"
+    },
+    {
+      "id": 4,
+      "image": "/images/dummy-1.png",
+      "name": "Industrial Bolts",
+      "quantity": 300,
+      "create_at": "2024-12-13T09:10:00Z"
+    },
+    {
+      "id": 5,
+      "image": "/images/dummy-1.png",
+      "name": "Rubber Seals",
+      "quantity": 500,
+      "create_at": "2024-12-14T16:45:00Z"
+    },
+    {
+      "id": 6,
+      "image": "/images/dummy-1.png",
+      "name": "Copper Wires",
+      "quantity": 200,
+      "create_at": "2024-12-15T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "image": "/images/dummy-1.png",
+      "name": "Gear Motors",
+      "quantity": 75,
+      "create_at": "2024-12-16T11:30:00Z"
+    },
+    {
+      "id": 8,
+      "image": "/images/dummy-1.png",
+      "name": "PVC Pipes",
+      "quantity": 400,
+      "create_at": "2024-12-17T15:20:00Z"
+    },
+    {
+      "id": 9,
+      "image": "/images/dummy-1.png",
+      "name": "Bearing Sets",
+      "quantity": 150,
+      "create_at": "2024-12-18T13:40:00Z"
+    },
+    {
+      "id": 10,
+      "image": "/images/dummy-1.png",
+      "name": "Control Panels",
+      "quantity": 30,
+      "create_at": "2024-12-19T10:25:00Z"
+    },
+    {
+      "id": 11,
+      "image": "/images/dummy-1.png",
+      "name": "Concrete Mixers",
+      "quantity": 20,
+      "create_at": "2024-12-20T09:00:00Z"
+    },
+    {
+      "id": 12,
+      "image": "/images/dummy-1.png",
+      "name": "Safety Helmets",
+      "quantity": 500,
+      "create_at": "2024-12-21T14:50:00Z"
+    },
+    {
+      "id": 13,
+      "image": "/images/dummy-1.png",
+      "name": "Lifting Chains",
+      "quantity": 100,
+      "create_at": "2024-12-22T08:15:00Z"
+    },
+    {
+      "id": 14,
+      "image": "/images/dummy-1.png",
+      "name": "Work Gloves",
+      "quantity": 600,
+      "create_at": "2024-12-23T17:10:00Z"
+    },
+    {
+      "id": 15,
+      "image": "/images/dummy-1.png",
+      "name": "Drill Machines",
+      "quantity": 50,
+      "create_at": "2024-12-24T11:05:00Z"
+    }
+  ]
+  
